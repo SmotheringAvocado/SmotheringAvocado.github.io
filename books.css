@@ -42,3 +42,8 @@ ul {
 	font: Helvetica;
 	border-radius: 5px;
 }
+
+a {
+	color: #FFFFFF;
+    text-decoration: none;
+}
