@@ -30,6 +30,10 @@ ul{
 	background-color: #00B3FF
 }
 
+.active {
+	background-color: #81DAFF
+}
+
 #navbar {
 	position: fixed;
 	top:10px;
