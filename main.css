@@ -5,6 +5,7 @@ html {
 #title {
 	font-family: Brush Script MT;
 	color: #155709;
+	transition: color 0.5s ease
 }
 
 #header {
@@ -28,7 +29,7 @@ ul{
 	padding: 5px;
 	border-radius: 5px 5px;
 	background-color: #00B3FF;
-	transition: background-color 0.5s ease;
+	transition: background-color 0.5s ease
 }
 
 .navbarActive {
