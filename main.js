@@ -1,18 +1,18 @@
-$(document).ready(function(){
+$(document).ready(function() {
 	$('.navbar').hover(
-		function(){
+		function() {
 				$(this).addClass('navbarActive');
 		},
-		function(){
+		function() {
 				$(this).removeClass('navbarActive');
 		}
 	);
 	
 	$('#title').hover(
-		function(){
+		function() {
 				$(this).addClass('titleActive');
 		},
-		function(){
+		function() {
 				$(this).removeClass('titleActive');
 		}
 	);
