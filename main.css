@@ -51,3 +51,7 @@ a {
 	color: #FFFFFF;
     text-decoration: none;
 }
+
+#google+ {
+	float: bottom;
+}
